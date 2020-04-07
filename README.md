@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis
+# COVID-19 Data Analysis project
 
 The coronavirus or Covid-19 is a large family of viruses that causes illnesses ranging from the common cold to acute respiratory syndromes, but the current virus is a novel strain not seen before. Common symptoms of the novel coronavirus strain include respiratory symptoms such as fever, cough, and shortness of breath, according to the WHO. The WHO has declared the coronavirus epidemic as a global health emergency.
 
@@ -19,3 +19,5 @@ The affect of CoronaVirus globally can be found <a href="https://google.org/cris
 
 ## An evaluation of case numbers in India
 ![](images/Screenshot%20(261).png)
+
+## - By Ruchi Mehta

@@ -11,6 +11,9 @@ The affect of CoronaVirus globally can be found <a href="https://google.org/cris
 ## Growth of spread across nations
 ![](images/Screenshot%20(264).png)
 
+## An account of confirmed cases, recoveries and deaths
+![](images/Screenshot%20(266).png)
+
 ## Affected places in India
 ![](images/Screenshot%20(262).png)
 
